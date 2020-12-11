@@ -1,4 +1,2 @@
 # lab2
-My name is Lindsey Brownell
-I am female
-I am a senior
+This file contains a simple function to produce a menu
